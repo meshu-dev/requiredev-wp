@@ -1,0 +1,9 @@
+wp-content/languages/plugins
+wp-content/uploads
+wp-content/debug.log
+
+wp-content/plugins
+!wp-content/plugins/hello.php
+!wp-content/plugins/index.php
+
+wp-config.php
