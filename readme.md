@@ -20,3 +20,9 @@ Switch tags to change Wordpress version.
 ```sh
 git checkout tags/6.4.2
 ```
+
+wp-scripts command is a requirement for some plugins, also make sure npm is installed
+
+```sh
+npm install @wordpress/scripts -g
+```
